@@ -38,9 +38,7 @@ Monitoring is handled by an external Prometheus server running on a separate mac
 Prometheus is intentionally deployed outside EC2 to simulate a centralized monitoring server.
 
 Metrics exposed:
-- CPU usage
 - Memory usage
-- Disk usage
 
 ---
 
